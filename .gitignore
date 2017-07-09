@@ -6,3 +6,5 @@ checkpoints/*
 save*
 checkpoint
 params.p
+
+**/*~
