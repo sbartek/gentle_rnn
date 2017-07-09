@@ -2,8 +2,7 @@
 logs/*
 **/__pycache__/*
 .DS_Store
-checkpoints/*
-save*
+checkpoints*/*
 checkpoint
 params.p
 
